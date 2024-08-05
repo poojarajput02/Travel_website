@@ -1,5 +1,5 @@
-# Travel_website
-travel_website using HTML, CSS, JAVASCRIPT.
+# Animation Travel_website
+animation Travel_website using HTML, CSS.
 
 ![Screenshot (29)](https://github.com/user-attachments/assets/11ec7ff2-d325-4a33-a949-83bb826bdfe8)
 ![Screenshot (30)](https://github.com/user-attachments/assets/341611af-dae1-44c1-9006-206a2dc48a59)
